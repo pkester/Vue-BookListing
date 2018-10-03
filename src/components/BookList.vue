@@ -15,6 +15,6 @@ export default {
 
 <style>
 h1, h2 {
-	font-weight: normal
+  font-weight: normal
 }
 </style>
